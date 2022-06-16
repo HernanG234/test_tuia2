@@ -8,4 +8,9 @@ function hola {
 	echo "Hola"
 }
 
+function chau {
+	echo "Chau"
+}
+
 hola
+chau
