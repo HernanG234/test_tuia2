@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hello world!"
+NAME=$1
+echo "Hello $NAME!"
